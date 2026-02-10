@@ -1,0 +1,5 @@
+gunicorn>=23,<24
+
+
+# Uncomment to use a Postgres database.
+#psycopg[binary]
